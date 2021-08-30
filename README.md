@@ -8,11 +8,11 @@ I mostly specialize in frontend technologies but I have experience with some oth
 - 🔭 I’m currently working on a Machine Learning career guidance system - "Cade"
 - 🌱 I’m currently learning about Microsoft Azure
 - :star2: I'm a Microsoft Learn Student Ambassador and actively contributing to my community
+- 📫 How to reach me: Follow me on Twitter or send a mail: maryojo3@gmail.com
 - ⚡ Fun fact: I just really love music :notes:!
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: Follow me on Twitter or send a mail: maryojo3@gmail.com
 <!-- - 😄 Pronouns: ... -->
 
 It was nice meeting you, do check out my work!
