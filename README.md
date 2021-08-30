@@ -12,7 +12,7 @@ I mostly specialize in frontend technologies but I have experience with some oth
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: ... -->
+- 📫 How to reach me: Follow me on Twitter or send a mail: maryojo3@gmail.com
 <!-- - 😄 Pronouns: ... -->
 
 It was nice meeting you, do check out my work!
