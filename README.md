@@ -3,9 +3,10 @@
 
 I am a software developer and I love to develop solutions to solve problems around me. 
 
-I mostly specialize in frontend technologies but I have experience with some other technologies like RPA, HPC and Human Computer Interaction
+I mostly specialize in frontend technologies but I have experience with some other technologies like RPA, HPC and Human Computer Interaction (UI/UX Design)
 
-- 🔭 I’m currently working on a Machine Learning career guidance system - "Cade"
+- 👜 I would be graduating soon and I'm in search of full-time opportunities
+-  🔭 I’m currently working on a Machine Learning career guidance system - "Cade"
 - 🌱 I’m currently learning about Microsoft Azure
 - :star2: I'm a Microsoft Learn Student Ambassador and actively contributing to my community
 - 📫 How to reach me: Follow me on Twitter or send a mail: maryojo3@gmail.com
