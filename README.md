@@ -8,7 +8,7 @@ I mostly specialize in frontend technologies but I have experience with some oth
 - 👜 I would be graduating soon and I'm open to internships or entry-level full-time opportunities. 
 <!-- - Check me out on [LinkedIn](https://www.linkedin.com/in/mary-ojo) -->
 <!-- -  🔭 I’m currently working on a Machine Learning career guidance system - "Cade" using Azure ML Studio -->
-- 🌱 I’m currently learning about Microsoft Azure
+- 🌱 I’m currently learning about Microsoft Azure, ReactVR and brushing up on DSA
 - :star2: I'm a Microsoft Learn Student Ambassador and actively contributing to my community
 - 📫 How to reach me: Follow me on Twitter or send a mail: maryojo3@gmail.com
 - ⚡ Fun fact: I just really love music :notes:!
